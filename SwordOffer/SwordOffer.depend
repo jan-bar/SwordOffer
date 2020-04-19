@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1536460397 source:e:\code_porject\c\swordoffer\swordoffer\main.c
+	"../common.h"
+
+1536460397 source:e:\code_porject\c\swordoffer\offer39.c
+	"common.h"
+
+1563279654 source:e:\study\path\src\janbar\swordoffer\swordoffer\main.c
+	"../common.h"
+
+1536199881 source:e:\study\path\src\janbar\swordoffer\offer39.c
+	"common.h"
+
+1536199962 source:e:\study\path\src\janbar\swordoffer\offer41.c
+	"common.h"
+
+1536068682 source:e:\study\path\src\janbar\swordoffer\offer44.c
+	"common.h"
+
+1536200019 source:e:\study\path\src\janbar\swordoffer\offer51.c
+	"common.h"
+
+1536200043 source:e:\study\path\src\janbar\swordoffer\offer58.c
+	"common.h"
+
+1563248952 source:e:\study\path\src\janbar\swordoffer\offer62.c
+	"common.h"
+
+1563278837 source:e:\study\path\src\janbar\swordoffer\swordoffer\binarytree.c
+	"../common.h"
+
+1563249487 e:\study\path\src\janbar\swordoffer\swordoffer\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+
+1563278750 e:\study\path\src\janbar\swordoffer\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<limits.h>
+	<math.h>
+	"./SwordOffer/BinaryTree.h"
+	"./SwordOffer/Stack.h"
+
+1536541683 source:e:\study\path\src\janbar\swordoffer\offer65.c
+	"common.h"
+
+1536738668 source:e:\study\path\src\janbar\swordoffer\offer68.c
+	"common.h"
+
+1536460397 e:\code_porject\c\swordoffer\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1536460397 source:e:\code_porject\c\swordoffer\offer41.c
+	"common.h"
+
+1536460397 source:e:\code_porject\c\swordoffer\offer44.c
+	"common.h"
+
+1536460397 source:e:\code_porject\c\swordoffer\offer51.c
+	"common.h"
+
+1536460397 source:e:\code_porject\c\swordoffer\offer58.c
+	"common.h"
+
+1536460397 source:e:\code_porject\c\swordoffer\offer62.c
+	"common.h"
+	"./SwordOffer/BinaryTree.h"
+
+1536460397 e:\code_porject\c\swordoffer\swordoffer\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+
+1536482007 source:e:\code_porject\c\swordoffer\offer68.c
+	"common.h"
+
+1536460397 source:e:\code_porject\c\swordoffer\swordoffer\binarytree.c
+	"BinaryTree.h"
+
+1536460544 source:e:\code_porject\c\swordoffer\offer65.c
+	"common.h"
+
+1563249804 source:e:\study\path\src\janbar\swordoffer\offer74.c
+	"common.h"
+
+1542073267 source:e:\study\path\src\janbar\swordoffer\offer82.c
+	"common.h"
+
+1543285227 source:e:\study\path\src\janbar\swordoffer\offer89.c
+	"common.h"
+
+1543026539 source:e:\study\path\src\janbar\swordoffer\swordoffer\common.c
+	"../common.h"
+
+1543285238 source:e:\study\path\src\janbar\swordoffer\offer96.c
+	"common.h"
+
+1543025517 source:e:\study\path\src\janbar\swordoffer\offer101.c
+	"common.h"
+
+1563248908 source:e:\study\path\src\janbar\swordoffer\offer110.c
+	"common.h"
+
+1543286262 source:e:\study\path\src\janbar\swordoffer\offer114.c
+	"common.h"
+
+1563248630 source:e:\study\path\src\janbar\swordoffer\offer119.c
+	"common.h"
+
+1563270879 source:e:\study\path\src\janbar\swordoffer\offer157.c
+	"common.h"
+
+1563276566 source:e:\study\path\src\janbar\swordoffer\offer163.c
+	"common.h"
+
+1563279654 e:\study\path\src\janbar\swordoffer\swordoffer\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1563279654 source:e:\study\path\src\janbar\swordoffer\swordoffer\stack.c
+	"../common.h"
+
